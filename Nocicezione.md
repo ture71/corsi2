@@ -1,6 +1,6 @@
 ---
-share_link: https://share.note.sx/h5ebn4c6#wE6b/E60LLvMsw4uBDA2VA5J0uDLMiPC8B5HgGuRr+8
-share_updated: 2025-11-02T11:03:55+01:00
+share_link: https://share.note.sx/7rlcu8yr#wE6b/E60LLvMsw4uBDA2VA5J0uDLMiPC8B5HgGuRr+8
+share_updated: 2024-12-02T10:18:13+01:00
 ---
 La nocicezione è il processo mediante il quale i neuroni sensoriali specializzati, chiamati nocicettori, rilevano stimoli potenzialmente dannosi e li trasformano in segnali elettrici che il sistema nervoso centrale interpreta come dolore. Vediamo in dettaglio come avviene questa trasformazione.
 
