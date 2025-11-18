@@ -6,9 +6,7 @@ share_updated: 2024-12-11T10:33:33+01:00
 
 ---
 
-### Abstract del Corso:
-
-## SIntesi
+## Sintesi
 
 
 
@@ -18,7 +16,7 @@ Il corso esplora l’evoluzione delle tecniche di manipolazione HVLA (**High Vel
 
 ### **Dal Concetto di Mid-Range alla Costruzione della Barriera Articolare**
 
-La **terza legge di Fryette-Nelson** evidenzia come i movimenti vertebrali si influenzino reciprocamente: quando un movimento si verifica in un piano, le possibilità di movimento negli altri piani sono ridotte. Questa limitazione naturale ci conduce al concetto di **mid-range**, una zona intermedia dove si costruisce una barriera articolare equilibrata, minimizzando lo stress sui tessuti e massimizzando la precisione dell'intervento.
+La **terza legge di Fryette-Nelson**  evidenzia come i movimenti vertebrali si influenzino reciprocamente: quando un movimento si verifica in un piano, le possibilità di movimento negli altri piani sono ridotte. Questa limitazione naturale ci conduce al concetto di **mid-range**, una zona intermedia dove si costruisce una barriera articolare equilibrata, minimizzando lo stress sui tessuti e massimizzando la precisione dell'intervento.
 
 ### **Vantaggi delle Manipolazioni a Leva Corta**
 
